@@ -1,0 +1,5 @@
+ultralytics
+strongsort
+PyQt5
+opencv-python
+matplotlib
